@@ -1,0 +1,15 @@
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Business\obj\Debug\netcoreapp3.1\RCM.Business.csproj.AssemblyReference.cache
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Business\obj\Debug\netcoreapp3.1\RCM.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Business\obj\Debug\netcoreapp3.1\RCM.Business.AssemblyInfoInputs.cache
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Business\obj\Debug\netcoreapp3.1\RCM.Business.AssemblyInfo.cs
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Business\obj\Debug\netcoreapp3.1\RCM.Business.csproj.CoreCompileInputs.cache
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Business\bin\Debug\netcoreapp3.1\RCM.Business.deps.json
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Business\bin\Debug\netcoreapp3.1\RCM.Business.dll
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Business\bin\Debug\netcoreapp3.1\RCM.Business.pdb
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Business\bin\Debug\netcoreapp3.1\RCM.Model.dll
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Business\bin\Debug\netcoreapp3.1\RCM.Repositories.dll
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Business\bin\Debug\netcoreapp3.1\RCM.Repositories.pdb
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Business\bin\Debug\netcoreapp3.1\RCM.Model.pdb
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Business\obj\Debug\netcoreapp3.1\RCM.Business.csproj.CopyComplete
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Business\obj\Debug\netcoreapp3.1\RCM.Business.dll
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Business\obj\Debug\netcoreapp3.1\RCM.Business.pdb

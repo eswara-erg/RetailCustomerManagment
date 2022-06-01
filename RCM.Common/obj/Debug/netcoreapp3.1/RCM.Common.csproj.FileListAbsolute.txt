@@ -1,0 +1,9 @@
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Common\bin\Debug\netcoreapp3.1\RCM.Common.deps.json
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Common\bin\Debug\netcoreapp3.1\RCM.Common.dll
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Common\bin\Debug\netcoreapp3.1\RCM.Common.pdb
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Common\obj\Debug\netcoreapp3.1\RCM.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Common\obj\Debug\netcoreapp3.1\RCM.Common.AssemblyInfoInputs.cache
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Common\obj\Debug\netcoreapp3.1\RCM.Common.AssemblyInfo.cs
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Common\obj\Debug\netcoreapp3.1\RCM.Common.csproj.CoreCompileInputs.cache
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Common\obj\Debug\netcoreapp3.1\RCM.Common.dll
+E:\DotNetSamples\Practice\GitCheckIn\RetailCustomerManagment\RCM.Common\obj\Debug\netcoreapp3.1\RCM.Common.pdb

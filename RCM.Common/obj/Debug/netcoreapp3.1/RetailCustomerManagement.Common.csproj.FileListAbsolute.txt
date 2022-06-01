@@ -1,0 +1,10 @@
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagement.Common\bin\Debug\netcoreapp3.1\RetailCustomerManagement.Common.deps.json
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagement.Common\bin\Debug\netcoreapp3.1\RetailCustomerManagement.Common.dll
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagement.Common\bin\Debug\netcoreapp3.1\RetailCustomerManagement.Common.pdb
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagement.Common\obj\Debug\netcoreapp3.1\RetailCustomerManagement.Common.csproj.AssemblyReference.cache
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagement.Common\obj\Debug\netcoreapp3.1\RetailCustomerManagement.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagement.Common\obj\Debug\netcoreapp3.1\RetailCustomerManagement.Common.AssemblyInfoInputs.cache
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagement.Common\obj\Debug\netcoreapp3.1\RetailCustomerManagement.Common.AssemblyInfo.cs
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagement.Common\obj\Debug\netcoreapp3.1\RetailCustomerManagement.Common.csproj.CoreCompileInputs.cache
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagement.Common\obj\Debug\netcoreapp3.1\RetailCustomerManagement.Common.dll
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagement.Common\obj\Debug\netcoreapp3.1\RetailCustomerManagement.Common.pdb

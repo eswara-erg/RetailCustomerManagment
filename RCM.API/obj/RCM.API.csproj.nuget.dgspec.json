@@ -1,0 +1,350 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.API\\RCM.API.csproj": {}
+  },
+  "projects": {
+    "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.API\\RCM.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.API\\RCM.API.csproj",
+        "projectName": "RCM.API",
+        "projectPath": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.API\\RCM.API.csproj",
+        "packagesPath": "C:\\Users\\KSNReddy\\.nuget\\packages\\",
+        "outputPath": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KSNReddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Business\\RCM.Business.csproj": {
+                "projectPath": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Business\\RCM.Business.csproj"
+              },
+              "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Common\\RCM.Common.csproj": {
+                "projectPath": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Common\\RCM.Common.csproj"
+              },
+              "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Model\\RCM.Model.csproj": {
+                "projectPath": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Model\\RCM.Model.csproj"
+              },
+              "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Repositories\\RCM.Repositories.csproj": {
+                "projectPath": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Repositories\\RCM.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.11.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Business\\RCM.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Business\\RCM.Business.csproj",
+        "projectName": "RCM.Business",
+        "projectPath": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Business\\RCM.Business.csproj",
+        "packagesPath": "C:\\Users\\KSNReddy\\.nuget\\packages\\",
+        "outputPath": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KSNReddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Repositories\\RCM.Repositories.csproj": {
+                "projectPath": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Repositories\\RCM.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AspNetCore.HealthChecks.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Common\\RCM.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Common\\RCM.Common.csproj",
+        "projectName": "RCM.Common",
+        "projectPath": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Common\\RCM.Common.csproj",
+        "packagesPath": "C:\\Users\\KSNReddy\\.nuget\\packages\\",
+        "outputPath": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KSNReddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AspNetCore.HealthChecks.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Model\\RCM.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Model\\RCM.Model.csproj",
+        "projectName": "RCM.Model",
+        "projectPath": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Model\\RCM.Model.csproj",
+        "packagesPath": "C:\\Users\\KSNReddy\\.nuget\\packages\\",
+        "outputPath": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KSNReddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Repositories\\RCM.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Repositories\\RCM.Repositories.csproj",
+        "projectName": "RCM.Repositories",
+        "projectPath": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Repositories\\RCM.Repositories.csproj",
+        "packagesPath": "C:\\Users\\KSNReddy\\.nuget\\packages\\",
+        "outputPath": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KSNReddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Model\\RCM.Model.csproj": {
+                "projectPath": "E:\\DotNetSamples\\Practice\\GitCheckIn\\RetailCustomerManagment\\RCM.Model\\RCM.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AspNetCore.HealthChecks.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

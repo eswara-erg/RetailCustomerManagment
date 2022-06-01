@@ -1,0 +1,15 @@
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagment.BLL\bin\Debug\netcoreapp3.1\RetailCustomerManagment.BLL.deps.json
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagment.BLL\bin\Debug\netcoreapp3.1\RetailCustomerManagment.BLL.dll
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagment.BLL\bin\Debug\netcoreapp3.1\RetailCustomerManagment.BLL.pdb
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagment.BLL\bin\Debug\netcoreapp3.1\RetailCustomerManagment.DAL.dll
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagment.BLL\bin\Debug\netcoreapp3.1\RetailCustomerManagment.Model.dll
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagment.BLL\bin\Debug\netcoreapp3.1\RetailCustomerManagment.DAL.pdb
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagment.BLL\bin\Debug\netcoreapp3.1\RetailCustomerManagment.Model.pdb
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagment.BLL\obj\Debug\netcoreapp3.1\RetailCustomerManagment.BLL.csproj.AssemblyReference.cache
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagment.BLL\obj\Debug\netcoreapp3.1\RetailCustomerManagment.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagment.BLL\obj\Debug\netcoreapp3.1\RetailCustomerManagment.BLL.AssemblyInfoInputs.cache
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagment.BLL\obj\Debug\netcoreapp3.1\RetailCustomerManagment.BLL.AssemblyInfo.cs
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagment.BLL\obj\Debug\netcoreapp3.1\RetailCustomerManagment.BLL.csproj.CoreCompileInputs.cache
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagment.BLL\obj\Debug\netcoreapp3.1\RetailCustomerManagment.BLL.csproj.CopyComplete
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagment.BLL\obj\Debug\netcoreapp3.1\RetailCustomerManagment.BLL.dll
+E:\DotNetSamples\Practice\RetailCustomerManagment\RetailCustomerManagment.BLL\obj\Debug\netcoreapp3.1\RetailCustomerManagment.BLL.pdb
